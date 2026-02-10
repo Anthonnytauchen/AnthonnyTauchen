@@ -1,66 +1,56 @@
 # Olá, eu sou o Anthonny! 👋 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=6DB33F&icon_color=6DB33F&bg_color=0D1117" />
 </div>
 
 ### 🎯 Sobre Mim
-Atualmente graduando em **Sistemas de Informação na Unisinos**, sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e escaláveis. Minha paixão é o ecossistema **Java**, onde busco dominar cada detalhe para alcançar o nível Sênior.
+Atualmente cursando **Sistemas de Informação na Unisinos**, sou um desenvolvedor focado em construir o caminho para me tornar **Sênior**. Minha especialidade é o ecossistema **Java**, criando APIs robustas e seguras, mas com total domínio do fluxo Full Stack com **React**.
 
 * 🎓 **Formação:** Sistemas de Informação (Unisinos)
 * 📍 **Localização:** Esteio, RS - Brasil
-* 💬 **Idiomas:** Português (Nativo) e Inglês (Em desenvolvimento/Básico)
-* 🚀 **Objetivo:** Desenvolvedor Java Sênior | Backend Specialist
+* 🚀 **Foco Atual:** Spring Boot Specialist | Cloud Fundamentals
+* 💬 **Idiomas:** Português (Nativo) e Inglês (Basic/Learning)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-**Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Ferramentas & Metodologias**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-FFFFFF?style=for-the-badge&logo=scrumalliance&logoColor=black" />
-</p>
-
----
-
-### 📂 Projetos em Destaque
-
-* **MentoringPlatform API:** Desenvolvimento de uma API robusta com Spring Boot e PostgreSQL para gestão de mentorias.
-* **Dona Dose (Hackathon):** Projeto premiado de gestão de medicamentos, onde liderei a equipe no desenvolvimento do protótipo.
-* **Pet-Connect:** Aplicação Full Stack com frontend em React focado na experiência do usuário.
-* **Finance Manager:** Projeto em Java puro focado na aplicação de POO e fundamentos de lógica.
-
----
-
-### 📫 Conecte-se Comigo
+### 🛠️ Meu Arsenal Tecnológico
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anthonnytauchen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anthonny.tauchen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,docker,react,js,html,css,git,postman,maven" />
   </a>
 </p>
 
 ---
-<p align="center">✨ "O sucesso é a soma de pequenos esforços repetidos dia após dia." ✨</p>
+
+### 📊 Nível de Conhecimento (Stats)
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=dracula&hide_border=true&fire=6DB33F&ring=6DB33F&sideNums=6DB33F&stroke=6DB33F&currStreakLabel=6DB33F" />
+</div>
+
+---
+
+### 📂 Projetos de Impacto
+
+* **🛡️ MentoringPlatform API:** Backend complexo com Spring Security e PostgreSQL.
+* **💊 Dona Dose:** Vencedor de Hackathon - Liderança de equipe e arquitetura.
+* **🐾 Pet-Connect:** Interface moderna e responsiva em React.
+* **☕ Finance Manager:** Domínio de POO e estrutura de dados em Java Puro.
+
+---
+
+### 📫 Vamos trocar uma ideia?
+
+<p align="left">
+<a href="https://linkedin.com/in/SEU-LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anthonny" height="30" width="40" /></a>
+<a href="mailto:seu-email@exemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Anthonny" height="30" width="40" /></a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=footer" />
+</div>
