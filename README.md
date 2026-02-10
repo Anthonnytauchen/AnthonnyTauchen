@@ -1,7 +1,7 @@
 # Olá, eu sou o Anthonny! 👋 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username==Anthonnytauchen&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=6DB33F&icon_color=6DB33F&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username==AnthonnyTauchen&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=6DB33F&icon_color=6DB33F&bg_color=0D1117" />
 </div>
 
 ### 🎯 Sobre Mim
