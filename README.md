@@ -27,9 +27,8 @@ Atualmente cursando **Sistemas de Informação na Unisinos**, focado em me torna
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Projetos principais em Destaque
 * **🛡️ MentoringPlatform API:** Backend Java/Spring Boot com foco em escalabilidade.
-* **💊 Dona Dose:** Projeto vencedor de Hackathon (MedTech).
 * **🐾 Pet-Connect:** Aplicação Full Stack com React.
 
 ---
