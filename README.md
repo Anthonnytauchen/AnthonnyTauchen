@@ -20,9 +20,9 @@ Atualmente cursando **Sistemas de Informação na Unisinos**, focado em me torna
 
 ### 📊 Estatísticas de Contribuição
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SUBSTITUA_PELO_SEU_NICK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anthonnytauchen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&bg_color=0D1117" />
   
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SUBSTITUA_PELO_SEU_NICK&theme=dracula&hide_border=true&fire=6DB33F&ring=6DB33F&sideNums=6DB33F&stroke=6DB33F&currStreakLabel=6DB33F" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user==Anthonnytauchen&theme=dracula&hide_border=true&fire=6DB33F&ring=6DB33F&sideNums=6DB33F&stroke=6DB33F&currStreakLabel=6DB33F" />
 </div>
 
 ---
@@ -36,5 +36,5 @@ Atualmente cursando **Sistemas de Informação na Unisinos**, focado em me torna
 
 ### 📫 Contato
 <p align="left">
-<a href="https://linkedin.com/in/seu-perfil" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:seu-email@gmail.com" target="blank"><img align="center" src="
+<a href="https://linkedin.com/in/anthonnytauchen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anthonny.tauchen@gmail.com" target="blank"><img align="center" src="
